@@ -1,6 +1,6 @@
 # Infrastructure as Code with Terraform on GCP
 
-![image](https://github.com/user-attachments/assets/8c36e225-3b53-425c-a0f7-6d6a14195153)
+![image](https://github.com/user-attachments/assets/c72742a7-7fe0-4241-b63a-c8f60d8443c7)
 
 
 ## Project Overview
