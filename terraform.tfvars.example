@@ -1,0 +1,21 @@
+# Rename this file to terraform.tfvars and fill in your values
+
+# Required values
+project_id = "your-gcp-project-id"
+
+# Optional values - uncomment and modify as needed
+# region = "us-west1"
+# zone = "us-west1-b"
+# network_name = "my-custom-network"
+# subnet_name = "my-custom-subnet"
+# subnet_cidr = "10.0.0.0/16"
+# instance_name = "my-vm-instance"
+# machine_type = "e2-medium"
+# disk_image = "debian-cloud/debian-11"
+# disk_size = 20
+# disk_type = "pd-ssd"
+# static_ip_name = "my-static-ip"
+# bucket_name = "my-unique-bucket-name-12345"  # Must be globally unique
+# bucket_location = "US"
+# create_dependent_vm = true
+# startup_script_path = "custom-scripts/startup.sh"
