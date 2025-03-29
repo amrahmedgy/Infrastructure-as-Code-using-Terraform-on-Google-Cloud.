@@ -1,6 +1,7 @@
 # Infrastructure as Code with Terraform on GCP
 
-![Terraform Logo](https://www.terraform.io/img/docs/terraform-logo.svg)
+![image](https://github.com/user-attachments/assets/8c36e225-3b53-425c-a0f7-6d6a14195153)
+
 
 ## Project Overview
 
